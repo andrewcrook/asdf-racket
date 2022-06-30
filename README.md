@@ -1,3 +1,5 @@
+# WARNING: WORK DOESNT WORK YET OR TESTED
+
 # asdf-racket
 
 [Racket](https://www.racket-lang.org) plugin for [asdf](https://github.com/asdf-vm/asdf) version manager
